@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jatr17
-- 👀 I’m interested in Technology and art
+- 👀 I’m interested in technology and art
 - 🌱 I’m currently learning Code, UX/UI, 2D and 3D rendering, and video editing
-- 💞️ I’m looking to collaborate on entrepreneurial or artistic Projects
+- 💞️ I’m looking to collaborate on entrepreneurial or artistic projects
 - 📫 How to reach me: Unavailable at the moment
 
 <!---
