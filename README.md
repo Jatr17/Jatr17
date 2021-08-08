@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Jatr17
+- 👀 I’m interested in Technology and art
+- 🌱 I’m currently learning Code, UX/UI, 2D and 3D rendering, and video editing
+- 💞️ I’m looking to collaborate on entrepreneurial or artistic Projects
+- 📫 How to reach me: authurjerod@gmail.com
+
+<!---
+Jatr17/Jatr17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
