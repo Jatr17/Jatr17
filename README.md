@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatr17
-- 👀 I’m interested in technology and art
-- 🌱 I’m currently learning C# and .NET
+- 👀 I’m interested in business and artistic applications
+- 🌱 I’m currently learning HTML, CSS, C#, .NET, and SQL
 - 💞️ I’m looking to collaborate on public repositories
 - 📫 How to reach me: I am still in the learning process, so I will be unavailable.
 
